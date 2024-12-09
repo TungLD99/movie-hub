@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-center-aspire-app.AppHost", "movie-center-aspire-app.AppHost\movie-center-aspire-app.AppHost.csproj", "{A9F516E7-C945-48D3-9F73-BE011BF97645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-center-aspire-app.ServiceDefaults", "movie-center-aspire-app.ServiceDefaults\movie-center-aspire-app.ServiceDefaults.csproj", "{2055C7C8-29CC-49B5-B659-82E118E2FF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-center-aspire-app.ApiService", "movie-center-aspire-app.ApiService\movie-center-aspire-app.ApiService.csproj", "{A2B742A9-1DC4-44FA-BB87-9BAA9A45D0ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-center-aspire-app.Web", "movie-center-aspire-app.Web\movie-center-aspire-app.Web.csproj", "{A2741FA9-8D3F-491E-B431-C99CB466B9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-center-aspire-app.Tests", "movie-center-aspire-app.Tests\movie-center-aspire-app.Tests.csproj", "{40C4F6B1-724D-4FE7-93A3-B6F66AC17AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F516E7-C945-48D3-9F73-BE011BF97645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F516E7-C945-48D3-9F73-BE011BF97645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F516E7-C945-48D3-9F73-BE011BF97645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F516E7-C945-48D3-9F73-BE011BF97645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2055C7C8-29CC-49B5-B659-82E118E2FF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2055C7C8-29CC-49B5-B659-82E118E2FF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2055C7C8-29CC-49B5-B659-82E118E2FF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2055C7C8-29CC-49B5-B659-82E118E2FF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B742A9-1DC4-44FA-BB87-9BAA9A45D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B742A9-1DC4-44FA-BB87-9BAA9A45D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B742A9-1DC4-44FA-BB87-9BAA9A45D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B742A9-1DC4-44FA-BB87-9BAA9A45D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2741FA9-8D3F-491E-B431-C99CB466B9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2741FA9-8D3F-491E-B431-C99CB466B9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2741FA9-8D3F-491E-B431-C99CB466B9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2741FA9-8D3F-491E-B431-C99CB466B9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C4F6B1-724D-4FE7-93A3-B6F66AC17AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C4F6B1-724D-4FE7-93A3-B6F66AC17AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C4F6B1-724D-4FE7-93A3-B6F66AC17AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C4F6B1-724D-4FE7-93A3-B6F66AC17AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
